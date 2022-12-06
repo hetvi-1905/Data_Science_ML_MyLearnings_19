@@ -13,9 +13,9 @@
 
 
 
-💁‍♀️ For more information :
+## 💁‍♀️ For more information :
 
-📜 Important Articles to Revise all the algorithms :
+### 📜 Important Articles to Revise all the algorithms :
 
 ****Understnading ML ALgos Theoritically:****
 
