@@ -17,11 +17,11 @@
 
 📜 Important Articles to Revise all the algorithms :
 
-*Understnading ML ALgos Theoritically:*
+****Understnading ML ALgos Theoritically:****
 
 https://towardsdatascience.com/11-most-common-machine-learning-algorithms-explained-in-a-nutshell-cc6e98df93be
 
-*Understnading ML ALgos Mathematically:*
+****Understnading ML ALgos Mathematically:****
 
 https://towardsdatascience.com/the-math-behind-machine-learning-algorithms-9c5e4c87fff
 
@@ -29,7 +29,7 @@ https://towardsdatascience.com/the-math-behind-machine-learning-algorithms-9c5e4
 
 📌 Supervised Algorithms
 
--- Regression 
+****Regression****
 
 - Linear 
 https://youtu.be/fnwlz5ARpjo
@@ -54,9 +54,9 @@ https://youtu.be/UhY5vPfQIrA
 - Random Forest Regressor (Ensemble Bagging Technique)
 https://youtu.be/BGiJqA-cGgQ
 
-📌 Classification
+****Classification****
 
--- Logistic 
+- Logistic 
 https://youtu.be/slBI5YuVUTM
 
 - Naive Bayes 
