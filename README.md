@@ -100,5 +100,4 @@ https://youtu.be/ijUMKMC4f9I
 - PCA
 https://youtu.be/47U0NCeqwQ4
 
-#### 📌Important theory :
 
