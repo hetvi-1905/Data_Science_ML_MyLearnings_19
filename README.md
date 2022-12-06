@@ -16,11 +16,15 @@
 💁‍♀️ For more information :
 
 📜 Articles :
+
 *Understnading ML ALgos Theoritically:*
+
 https://towardsdatascience.com/11-most-common-machine-learning-algorithms-explained-in-a-nutshell-cc6e98df93be
 
 *Understnading ML ALgos Mathematically:*
+
 https://towardsdatascience.com/the-math-behind-machine-learning-algorithms-9c5e4c87fff
 
 🎥 Youtube videos for visualization of ML Algos:
+
 - SVM https://youtu.be/N1vOgolbjSc
