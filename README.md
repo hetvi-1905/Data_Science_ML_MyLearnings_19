@@ -1,4 +1,4 @@
-# Data_Science_ML_Codes
+# Data_Science_Machine_Learning
 ## All practice codes 
 1) Python
 2) Numpy
@@ -37,7 +37,7 @@ https://youtu.be/fnwlz5ARpjo
 - Ridge (L2) and Lasso (L1)
 https://youtu.be/BLI_-iX6uM8
 
-Whu use Ridge & Lasso?
+Why use Ridge & Lasso?
 When we create our linear model with the best-fitted line and come on testing phase then because of increased variation, our model is over-fitted, So It will not work well in the future also not provide appropriate accuracy. Therefore, to reduce overfitting, ridge and lasso regression came into the picture.
 
 When to use which?
@@ -54,6 +54,9 @@ https://youtu.be/UhY5vPfQIrA
 - Random Forest Regressor (Ensemble Bagging Technique)
 https://youtu.be/BGiJqA-cGgQ
 
+- KNN regressor
+https://youtu.be/BvQVovMefsM
+
 ****Classification****
 
 - Logistic 
@@ -68,4 +71,14 @@ https://youtu.be/tNa99PG8hR8
 - Random Forest Classifier (Ensemble Bagging Technique)
 https://youtu.be/BGiJqA-cGgQ
 
+- KNN Classifier
+https://youtu.be/UqYde-LULfs
+
 📌 UnSupervised Algorithms 
+
+- K Means
+https://youtu.be/BvQVovMefsM 
+- DBSCAN
+- Hierarchical clustering
+- K Nearest clustering
+- PCA
