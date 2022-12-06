@@ -12,7 +12,6 @@
 10) Feature Tranformation 
 
 
-
 ## 💁‍♀️ For more information :
 
 ### 📜 Important Articles to Revise all the algorithms :
@@ -110,3 +109,12 @@ When to use which?
 Lasso tends to do well if there are a small number of significant parameters and the others are close to zero (ergo: when only a few predictors actually influence the response). Ridge works well if there are many large parameters of about the same value (ergo: when most predictors impact the response).
 
 One obvious advantage of lasso regression over ridge regression, is that it produces simpler and more interpretable models that incorporate only a reduced set of the predictors.
+
+## Stratified Cross-Validation Techniques
+https://towardsdatascience.com/what-is-stratified-cross-validation-in-machine-learning-8844f3e7ae8e#:~:text=Implementing%20the%20concept%20of%20stratified,close%20approximation%20of%20generalization%20error
+
+### Firstly apply Train Test splitting then do cross validation on training the data on model
+### Best Cross Validation for Regression: KFold
+### Best Cross Validation for Classification: StratifiedKFold
+### At the end, use "Grid Search CV" as it contains by default parameter: cv=KFold (if regression) or cv=StratifiedKFold (if classification)
+### Refer the difference between epochs and iteration 
