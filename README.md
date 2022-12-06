@@ -15,7 +15,7 @@
 
 💁‍♀️ For more information :
 
-📜 Articles :
+📜 Important Articles to Revise all the algorithms :
 
 *Understnading ML ALgos Theoritically:*
 
@@ -27,19 +27,45 @@ https://towardsdatascience.com/the-math-behind-machine-learning-algorithms-9c5e4
 
 🎥 Youtube videos for visualization of ML Algos:
 
-📌📌 Supervised Algorithms
+📌 Supervised Algorithms
 
-📌 Regression 
+-- Regression 
 
-- 
+- Linear 
+https://youtu.be/fnwlz5ARpjo
+
+- Ridge (L2) and Lasso (L1)
+https://youtu.be/BLI_-iX6uM8
+
+Whu use Ridge & Lasso?
+When we create our linear model with the best-fitted line and come on testing phase then because of increased variation, our model is over-fitted, So It will not work well in the future also not provide appropriate accuracy. Therefore, to reduce overfitting, ridge and lasso regression came into the picture.
+
+When to use which?
+Lasso tends to do well if there are a small number of significant parameters and the others are close to zero (ergo: when only a few predictors actually influence the response). Ridge works well if there are many large parameters of about the same value (ergo: when most predictors impact the response).
+
+One obvious advantage of lasso regression over ridge regression, is that it produces simpler and more interpretable models that incorporate only a reduced set of the predictors.
+
 - SVM 
 https://youtu.be/N1vOgolbjSc
 
+- Decision Tree Regressor
+https://youtu.be/UhY5vPfQIrA
+
+- Random Forest Regressor (Ensemble Bagging Technique)
+https://youtu.be/BGiJqA-cGgQ
+
 📌 Classification
 
-- Logistic 
+-- Logistic 
 https://youtu.be/slBI5YuVUTM
+
 - Naive Bayes 
 https://in.coursera.org/lecture/machine-learning-under-the-hood/naive-bayes-ui7OL?utm_source=link&utm_medium=page_share&utm_content=vlp&utm_campaign=top_button
 
-📌📌 UnSupervised Algorithms 
+- Decision Tree Classifier
+https://youtu.be/tNa99PG8hR8
+
+- Random Forest Classifier (Ensemble Bagging Technique)
+https://youtu.be/BGiJqA-cGgQ
+
+📌 UnSupervised Algorithms 
