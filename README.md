@@ -27,4 +27,14 @@ https://towardsdatascience.com/the-math-behind-machine-learning-algorithms-9c5e4
 
 🎥 Youtube videos for visualization of ML Algos:
 
+**Supervised Algorithms **
+*** Regression ***
+
+-
 - SVM https://youtu.be/N1vOgolbjSc
+
+*** Classification ***
+
+- Logistic https://youtu.be/slBI5YuVUTM
+
+**UnSupervised Algorithms **
