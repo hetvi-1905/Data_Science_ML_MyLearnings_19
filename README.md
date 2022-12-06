@@ -33,13 +33,13 @@ https://towardsdatascience.com/the-math-behind-machine-learning-algorithms-9c5e4
 
 - 
 - SVM 
-  https://youtu.be/N1vOgolbjSc
+https://youtu.be/N1vOgolbjSc
 
 📌 Classification
 
 - Logistic 
-  https://youtu.be/slBI5YuVUTM
+https://youtu.be/slBI5YuVUTM
 - Naive Bayes 
-  https://in.coursera.org/lecture/machine-learning-under-the-hood/naive-bayes-ui7OL?utm_source=link&utm_medium=page_share&utm_content=vlp&utm_campaign=top_button
+https://in.coursera.org/lecture/machine-learning-under-the-hood/naive-bayes-ui7OL?utm_source=link&utm_medium=page_share&utm_content=vlp&utm_campaign=top_button
 
 📌📌 UnSupervised Algorithms 
