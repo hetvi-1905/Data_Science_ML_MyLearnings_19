@@ -34,8 +34,8 @@ https://towardsdatascience.com/the-math-behind-machine-learning-algorithms-9c5e4
 - Linear 
 https://youtu.be/fnwlz5ARpjo
 
-- Ridge (L2) and Lasso (L1)
-https://youtu.be/BLI_-iX6uM8
+- Ridge (L2) and Lasso (L1)  (refer theory below)
+https://youtu.be/Xm2C_gTAl8c
 
 - SVR 
 https://youtu.be/Fv7C46NiQiw
@@ -90,7 +90,7 @@ https://towardsdatascience.com/a-brief-introduction-to-xgboost-3eaee2e3e5d6#:~:t
 📌 UnSupervised Algorithms 
 
 - K Means
-https://youtu.be/BvQVovMefsM 
+https://youtu.be/R2e3Ls9H_fc
 
 - DBSCAN
 https://youtu.be/_A9Tq6mGtLI
@@ -98,13 +98,10 @@ https://youtu.be/_A9Tq6mGtLI
 - Hierarchical clustering
 https://youtu.be/ijUMKMC4f9I
 
-- K Nearest clustering
-https://youtu.be/R2e3Ls9H_fc
-
 - PCA
 https://youtu.be/47U0NCeqwQ4
 
-Important theory :
+📌Important theory :
 
 Why use Ridge & Lasso?
 When we create our linear model with the best-fitted line and come on testing phase then because of increased variation, our model is over-fitted, So It will not work well in the future also not provide appropriate accuracy. Therefore, to reduce overfitting, ridge and lasso regression came into the picture.
