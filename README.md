@@ -25,11 +25,11 @@ https://towardsdatascience.com/11-most-common-machine-learning-algorithms-explai
 
 https://towardsdatascience.com/the-math-behind-machine-learning-algorithms-9c5e4c87fff
 
-🎥 Reference for visualization and Intuition of ML Algos:
+### 🎥 Reference for visualization and Intuition of ML Algos:
 
-📌 Supervised Algorithms
+#### 📌 Supervised Algorithms
 
-****Regression****
+##### ****Regression****
 
 - Linear 
 https://youtu.be/fnwlz5ARpjo
@@ -58,7 +58,7 @@ https://youtu.be/TyvYZ26alZs
 - XGboost Regressor  
 https://towardsdatascience.com/a-brief-introduction-to-xgboost-3eaee2e3e5d6#:~:text=XGBoost%20vs%20Gradient%20Boosting,can%20be%20parallelized%20across%20clusters.
 
-****Classification****
+##### ****Classification****
 
 - Logistic 
 https://youtu.be/slBI5YuVUTM
@@ -87,7 +87,7 @@ https://youtu.be/TyvYZ26alZs
 - XGboost Classifier
 https://towardsdatascience.com/a-brief-introduction-to-xgboost-3eaee2e3e5d6#:~:text=XGBoost%20vs%20Gradient%20Boosting,can%20be%20parallelized%20across%20clusters.
 
-📌 UnSupervised Algorithms 
+#### 📌 UnSupervised Algorithms 
 
 - K Means
 https://youtu.be/R2e3Ls9H_fc
@@ -101,7 +101,7 @@ https://youtu.be/ijUMKMC4f9I
 - PCA
 https://youtu.be/47U0NCeqwQ4
 
-📌Important theory :
+#### 📌Important theory :
 
 Why use Ridge & Lasso?
 When we create our linear model with the best-fitted line and come on testing phase then because of increased variation, our model is over-fitted, So It will not work well in the future also not provide appropriate accuracy. Therefore, to reduce overfitting, ridge and lasso regression came into the picture.
